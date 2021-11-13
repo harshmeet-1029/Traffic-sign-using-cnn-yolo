@@ -12,9 +12,9 @@ https://drive.google.com/file/d/1MTUr0b0imwYCaycMRmNmn5jYQXzzO7Fq/view?usp=shari
 4. other
 
 ## Sign classes.txt 
-1	Speed limit (20km/h)
-2	Speed limit (30km/h)
-3	Speed limit (50km/h)
+1.Speed limit (20km/h)
+2.Speed limit (30km/h)
+3.Speed limit (50km/h)
 4	Speed limit (60km/h)
 5	Speed limit (70km/h)
 6	Speed limit (80km/h)
