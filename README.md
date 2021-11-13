@@ -12,49 +12,49 @@ https://drive.google.com/file/d/1MTUr0b0imwYCaycMRmNmn5jYQXzzO7Fq/view?usp=shari
 4. other
 
 ## Sign classes.txt 
-1.Speed limit (20km/h)<br>
-2.Speed limit (30km/h)
-3.Speed limit (50km/h)
-4	Speed limit (60km/h)
-5	Speed limit (70km/h)
-6	Speed limit (80km/h)
-7	End of speed limit (80km/h)
-8	Speed limit (100km/h)
-9	Speed limit (120km/h)
-10	No passing
-11	No passing for vehicles over 3.5 metric tons
-12	Right-of-way at the next intersection
-13	Priority road
-14	Yield
-15	Stop
-16	No vehicles
-17	Vehicles over 3.5 metric tons prohibited
-18	No entry
-19	General caution
-20	Dangerous curve to the left
-21	Dangerous curve to the right
-22	Double curve
-23	Bumpy road
-24	Slippery road
-25	Road narrows on the right
-26	Road work
-27	Traffic signals
-28	Pedestrians
-29	Children crossing
-30	Bicycles crossing
-31	Beware of ice/snow
-32	Wild animals crossing
-33	End of all speed and passing limits
-34	Turn right ahead
-35	Turn left ahead
-36	Ahead only
-37	Go straight or right
-38	Go straight or left
-39	Keep right
-40	Keep left
-41	Roundabout mandatory
-42	End of no passing
-43	End of no passing by vehicles over 3.5 metric tons
+   1	Speed limit (20km/h)<br/>
+   2	Speed limit (30km/h)<br/>
+   3	Speed limit (50km/h)<br/>
+   4	Speed limit (60km/h)<br/>
+   5	Speed limit (70km/h)<br/>
+   6	Speed limit (80km/h)<br/>
+   7	End of speed limit (80km/h)<br/>
+   8	Speed limit (100km/h)<br/>
+   9	Speed limit (120km/h)<br/>
+  10	No passing<br/>
+  11	No passing for vehicles over 3.5 metric tons<br/>
+  12	Right-of-way at the next intersection<br/>
+  13	Priority road<br/>
+  14	Yield<br/>
+  15	Stop<br/>
+  16	No vehicles<br/>
+  17	Vehicles over 3.5 metric tons prohibited<br/>
+  18	No entry<br/>
+  19	General caution<br/>
+  20	Dangerous curve to the left<br/>
+  21	Dangerous curve to the right<br/>
+  22	Double curve<br/>
+  23	Bumpy road<br/>
+  24	Slippery road<br/>
+  25	Road narrows on the right<br/>
+  26	Road work<br/>
+  27	Traffic signals<br/>
+  28	Pedestrians<br/>
+  29	Children crossing<br/>
+  30	Bicycles crossing<br/>
+  31	Beware of ice/snow<br/>
+  32	Wild animals crossing<br/>
+  33	End of all speed and passing limits<br/>
+  34	Turn right ahead<br/>
+  35	Turn left ahead<br/>
+  36	Ahead only<br/>
+  37	Go straight or right<br/>
+  38	Go straight or left<br/>
+  39	Keep right<br/>
+  40	Keep left<br/>
+  41	Roundabout mandatory<br/>
+  42	End of no passing<br/>
+  43	End of no passing by vehicles over 3.5 metric tons<br/>
 
 ## traffic_recognition.h5
 It is CNN model
